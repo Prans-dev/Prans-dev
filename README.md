@@ -5,7 +5,7 @@
 I'm currently a beginner at coding, grinding to become a game developer or software engineer in the future!
 
 ---
-# 💻 Tech Stack
+# 💻 Languages and Tools
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
 
