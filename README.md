@@ -2,7 +2,7 @@
 
 **`Aspiring Game Dev/Software Engineer`**
 
-I'm currently a beginner at coding, grinding to become a game developer or software engineer in the future!
+Grinding to become a game developer or software engineer in the future!
 
 ---
 # 💻 Languages and Tools
